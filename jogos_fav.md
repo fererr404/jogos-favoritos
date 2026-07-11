@@ -1,4 +1,4 @@
-#Jogos Favoritos
+# Jogos Favoritos
 
 ## Ace Combat 7
 ## Terraria
